@@ -36,13 +36,13 @@
 ## Social medias and contact
 ### If you want to see me, get in touch or just stalk me, this is the place! 📱
 <div>
-  <a href="www.linkedin.com/in/lucas-khaled-rocha-brugger-b92a00177">
+  <a href="https://www.linkedin.com/in/lucas-khaled-rocha-brugger-b92a00177/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"/>
   </a>
   <a href="https://www.instagram.com/lkbrugger/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"/>
   </a>
-  <a href="khaledbrugger3@gmail.com">
+  <a href="mailto:khaledbrugger3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"/>
   </a>
   <a href="https://discordapp.com/users/381875735800971285">
