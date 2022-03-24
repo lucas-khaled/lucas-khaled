@@ -15,11 +15,17 @@
 ## Most important projects
 ### The cool stuff that I'm most proud of 😍 
 <div>
-  <img src ="https://github-readme-stats.vercel.app/api/pin/?username=lucas-khaled&repo=Extreme-Snowboarding&theme=synthwave"/>
-  <img src ="https://github-readme-stats.vercel.app/api/pin/?username=lucas-khaled&repo=Alien-Arena&theme=synthwave"/>
+  <a href = "https://github.com/lucas-khaled/Extreme-Snowboarding">
+    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=lucas-khaled&repo=Extreme-Snowboarding&theme=synthwave"/>
+  </a>
+  <a href = "https://github.com/lucas-khaled/Alien-Arena">
+    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=lucas-khaled&repo=Alien-Arena&theme=synthwave"/>
+  </a>
 </div>
 <div>
-  <img src ="https://github-readme-stats.vercel.app/api/pin/?username=lucas-khaled&repo=Domum&theme=synthwave"/>
+  <a href = "https://github.com/lucas-khaled/Domum">
+    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=lucas-khaled&repo=Domum&theme=synthwave"/>
+  </a>
 </div> <br>
 
 ## Tech Habilities
