@@ -1,7 +1,7 @@
 # Hi, my name is Lucas Khaled!
 
 - 🔭 I’m currently working on Unity Game Development
-- 🌱 I’m currently learning `Python`
+- 🌱 I’m currently learning `Unreal`
 - 😄 **Pronouns:** he/him (ele/dele)
 
 ## My Stats on GithHub
