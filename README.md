@@ -23,8 +23,11 @@
   </a>
 </div>
 <div>
-  <a href = "https://github.com/lucas-khaled/Domum">
-    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=lucas-khaled&repo=Domum&theme=synthwave"/>
+  <a href = "https://github.com/lucas-khaled/Tic-TacToe">
+    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=lucas-khaled&repo=Tic-TacToe&theme=synthwave"/>
+  </a>
+  <a href = "https://github.com/lucas-khaled/ChessAI">
+    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=lucas-khaled&repo=ChessAI&theme=synthwave"/>
   </a>
 </div> <br>
 
